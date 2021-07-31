@@ -1,0 +1,44 @@
+.header{
+    border:solid;
+    display: flex;
+    margin:50px;
+    font-family:cooper black;
+    /* background-color:#101820ff ; */
+    font-variant: small-caps;
+   
+    
+}
+
+
+.line{
+    /* background-color: #101820ff; */
+    border:solid;
+    display: flex;
+    margin:50px;
+    font-family:imprint mt shadow;
+    font-variant: small-caps;
+}
+.line2{
+    border:solid;
+    display: flex;
+    margin:50px;
+    font-family:imprint mt shadow;
+    font-variant: small-caps;   
+}
+html{
+    background-color:#f2aa4cff;
+}
+.image{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+.image:hover{
+    opacity:1;
+}
+.image:hover{
+    opacity:0.33;
+}
+
+
